@@ -18,3 +18,10 @@
 | steamID64: http://steamcommunity.com/profiles/76561198807519997
 | customURL:
 | steamrep: http://steamrep.com/profiles/76561198807519997
+
+| steamname: VOX
+|  steam3ID: [U:1:847449061]
+| steamID32: STEAM_0:1:423724530
+| steamID64: http://steamcommunity.com/profiles/76561198807714789
+| customURL: 
+|  steamrep: http://steamrep.com/profiles/76561198807714789
