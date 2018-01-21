@@ -1,1 +1,1 @@
-# Bareungak-Alliance-Bans-Log-Database
+# 바른각 연합밴 기록 데이터베이스
