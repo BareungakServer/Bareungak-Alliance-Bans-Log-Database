@@ -1,4 +1,4 @@
-[10:57:01] New map: gm_nm_sprint_beta
+﻿[10:57:01] New map: gm_nm_sprint_beta
 [11:03:47] 클라이언트 "[SKP]shrimp" 접속.
 [11:04:58] 클라이언트 "샌드" 접속.
 [11:05:36] 클라이언트 "[SKP]shrimp" 님이 서버에 소환됨 <STEAM_0:1:183103781> (109 초 소요됨).
