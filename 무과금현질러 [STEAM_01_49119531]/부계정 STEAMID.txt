@@ -19,9 +19,16 @@
 | customURL:
 | steamrep: http://steamrep.com/profiles/76561198807519997
 
-| steamname: VOX
+| steamname: <hsv>비욧</hsv>
 |  steam3ID: [U:1:847449061]
 | steamID32: STEAM_0:1:423724530
 | steamID64: http://steamcommunity.com/profiles/76561198807714789
 | customURL: 
 |  steamrep: http://steamrep.com/profiles/76561198807714789
+
+| steamname: [ANG]Gay
+| steam3ID: [U:1:471350431]
+| steamID32: STEAM_0:1:235675215
+| steamID64: http://steamcommunity.com/profiles/76561198431616159
+| customURL:
+| steamrep: http://steamrep.com/profiles/76561198431616159
