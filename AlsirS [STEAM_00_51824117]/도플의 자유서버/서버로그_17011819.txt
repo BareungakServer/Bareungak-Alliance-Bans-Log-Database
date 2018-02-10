@@ -1,0 +1,12 @@
+ServerLog: [ULX] AlsirS<STEAM_0:0:51824117> used the tool weld on models/combine_helicopter/helicopter_bomb01.mdl
+AlsirS<STEAM_0:0:51824117> used the tool weld on models/combine_helicopter/helicopter_bomb01.mdl
+ServerLog: [ULX] AlsirS<STEAM_0:0:51824117> used the tool weld on models/combine_helicopter/helicopter_bomb01.mdl
+AlsirS<STEAM_0:0:51824117> used the tool weld on models/combine_helicopter/helicopter_bomb01.mdl
+ServerLog: [ULX] AlsirS<STEAM_0:0:51824117> used the tool weld on models/combine_helicopter/helicopter_bomb01.mdl
+AlsirS<STEAM_0:0:51824117> used the tool weld on models/combine_helicopter/helicopter_bomb01.mdl
+ServerLog: [ULX] AlsirS<STEAM_0:0:51824117> used the tool weld on maps/rp_bigcity.bsp
+AlsirS<STEAM_0:0:51824117> used the tool weld on maps/rp_bigcity.bsp
+ServerLog: [ULX] AlsirS<STEAM_0:0:51824117> used the tool duplicator on models/combine_helicopter/helicopter_bomb01.mdl
+AlsirS<STEAM_0:0:51824117> used the tool duplicator on models/combine_helicopter/helicopter_bomb01.mdl
+ServerLog: [ULX] AlsirS<STEAM_0:0:51824117> used the tool duplicator on maps/rp_bigcity.bsp
+AlsirS<STEAM_0:0:51824117> used the tool duplicator on maps/rp_bigcity.bsp
