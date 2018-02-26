@@ -1,4 +1,4 @@
-| steamname: Nightcore
+| steamname: 쥬 비엔나 그레이프
 | steam3ID: [U:1:458113626]
 | steamID32: STEAM_0:0:229056813
 | steamID64: http://steamcommunity.com/profiles/76561198418379354
@@ -26,14 +26,14 @@
 | customURL: 
 |  steamrep: http://steamrep.com/profiles/76561198807714789
 
-| steamname: Z-Cup
+| steamname: A4
 | steam3ID: [U:1:471350431]
 | steamID32: STEAM_0:1:235675215
 | steamID64: http://steamcommunity.com/profiles/76561198431616159
 | customURL:
 | steamrep: http://steamrep.com/profiles/76561198431616159
 
-| steamname: White
+| steamname: PSC
 |  steam3ID: [U:1:847926291]
 | steamID32: STEAM_0:1:423963145
 | steamID64: http://steamcommunity.com/profiles/76561198808192019
@@ -60,3 +60,10 @@
 | steamID64: http://steamcommunity.com/profiles/76561198814709869
 | customURL:
 | steamrep: http://steamrep.com/profiles/76561198814709869
+
+| steamname: 이온
+| steam3ID: [U:1:850590115]
+| steamID32: STEAM_0:1:425295057
+| steamID64: http://steamcommunity.com/profiles/76561198810855843
+| customURL:
+| steamrep: http://steamrep.com/profiles/76561198810855843
