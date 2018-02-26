@@ -1,0 +1,13 @@
+| steamname: 백야
+| steam3ID: [U:1:849867562]
+| steamID32: STEAM_0:0:424933781
+| steamID64: http://steamcommunity.com/profiles/76561198810133290
+| customURL:
+| steamrep: http://steamrep.com/profiles/76561198810133290
+
+| steamname: 초보
+| steam3ID: [U:1:272393868]
+| steamID32: STEAM_0:0:136196934
+| steamID64: http://steamcommunity.com/profiles/76561198232659596
+| customURL:
+| steamrep: http://steamrep.com/profiles/76561198232659596
