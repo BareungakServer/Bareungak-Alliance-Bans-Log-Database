@@ -61,9 +61,9 @@
 | customURL:
 | steamrep: http://steamrep.com/profiles/76561198814709869
 
-| steamname: 이온
-| steam3ID: [U:1:850590115]
-| steamID32: STEAM_0:1:425295057
-| steamID64: http://steamcommunity.com/profiles/76561198810855843
+| steamname: gay1994
+| steam3ID: [U:1:857097224]
+| steamID32: STEAM_0:0:428548612
+| steamID64: https://steamcommunity.com/profiles/76561198817362952
 | customURL:
-| steamrep: http://steamrep.com/profiles/76561198810855843
+| steamrep: https://steamrep.com/profiles/76561198817362952
