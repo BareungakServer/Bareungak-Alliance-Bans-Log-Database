@@ -1,4 +1,4 @@
-| steamname: 쥬 비엔나 그레이프
+﻿| steamname: 냥
 | steam3ID: [U:1:458113626]
 | steamID32: STEAM_0:0:229056813
 | steamID64: http://steamcommunity.com/profiles/76561198418379354
@@ -19,35 +19,35 @@
 | customURL:
 | steamrep: http://steamrep.com/profiles/76561198807519997
 
-| steamname: XScreen
+| steamname: 카네키 켄
 |  steam3ID: [U:1:847449061]
 | steamID32: STEAM_0:1:423724530
 | steamID64: http://steamcommunity.com/profiles/76561198807714789
 | customURL: 
 |  steamrep: http://steamrep.com/profiles/76561198807714789
 
-| steamname: A4
+| steamname: 알보칠
 | steam3ID: [U:1:471350431]
 | steamID32: STEAM_0:1:235675215
 | steamID64: http://steamcommunity.com/profiles/76561198431616159
 | customURL:
 | steamrep: http://steamrep.com/profiles/76561198431616159
 
-| steamname: PSC
+| steamname: SCP
 |  steam3ID: [U:1:847926291]
 | steamID32: STEAM_0:1:423963145
 | steamID64: http://steamcommunity.com/profiles/76561198808192019
 | customURL: 
 |  steamrep: http://steamrep.com/profiles/76561198808192019
 
-| steamname: Orangeline
+| steamname: ALEPH
 | steam3ID: [U:1:849014797]
 | steamID32: STEAM_0:1:424507398
 | steamID64: http://steamcommunity.com/profiles/76561198809280525
 | customURL:
 | steamrep: http://steamrep.com/profiles/76561198809280525
 
-| steamname: Ain
+| steamname: 3232
 | steam3ID: [U:1:852946189]
 | steamID32: STEAM_0:1:426473094
 | steamID64: http://steamcommunity.com/profiles/76561198813211917
@@ -61,9 +61,23 @@
 | customURL:
 | steamrep: http://steamrep.com/profiles/76561198814709869
 
-| steamname: gay1994
+| steamname: 남창로리콘
 | steam3ID: [U:1:857097224]
 | steamID32: STEAM_0:0:428548612
 | steamID64: https://steamcommunity.com/profiles/76561198817362952
 | customURL:
 | steamrep: https://steamrep.com/profiles/76561198817362952
+
+| steamname: bochan
+| steam3ID: [U:1:878308438]
+| steamID32: STEAM_0:0:439154219
+| steamID64: https://steamcommunity.com/profiles/76561198838574166
+| customURL:
+| steamrep: https://steamrep.com/profiles/76561198838574166
+
+| steamname: 나무
+| steam3ID: [U:1:329343033]
+| steamID32: STEAM_0:1:164671516
+| steamID64: https://steamcommunity.com/profiles/76561198289608761
+| customURL:
+| steamrep: https://steamrep.com/profiles/76561198289608761
