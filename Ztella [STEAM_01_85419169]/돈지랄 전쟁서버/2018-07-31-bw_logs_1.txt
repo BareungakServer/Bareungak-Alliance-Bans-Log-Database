@@ -1,0 +1,37 @@
+﻿# 핵 관련 내용
+
+2018-07-31 / 02:51:28 - [chat] Ztella (STEAM_0:1:85419169) : 뭐야
+
+2018-07-31 / 02:51:31 - [chat] Ztella (STEAM_0:1:85419169) : 이서버  열린지   얼마나됨
+
+2018-07-31 / 02:51:38 - [chat] heregold13 (STEAM_0:1:227536482) : 처음?
+
+2018-07-31 / 02:51:39 - [chat] 곰 (STEAM_0:0:93261796) : ㄴ2년
+
+2018-07-31 / 02:51:42 - [chat] Ztella (STEAM_0:1:85419169) : 2년인데
+
+2018-07-31 / 02:51:47 - [chat] Ztella (STEAM_0:1:85419169) : 이게  안막혀있네
+
+2018-07-31 / 02:53:10 - [chat] Ztella (STEAM_0:1:85419169) : 스마트스냅
+
+2018-07-31 / 02:53:15 - [chat] Ztella (STEAM_0:1:85419169) : 에임핵으로   쓸수있는데
+
+2018-07-31 / 02:53:17 - [chat] Ztella (STEAM_0:1:85419169) : 넣어놨네
+
+2018-07-31 / 02:59:07 - [damaged] Ztella (STEAM_0:1:85419169) was damaged 50 by prop_physics
+
+2018-07-31 / 02:59:07 - [damaged] Ztella (STEAM_0:1:85419169) was damaged 100 by prop_physics
+
+2018-07-31 / 02:59:07 - [deaths] Ztella (STEAM_0:1:85419169) was dead by prop_physics
+
+2018-07-31 / 02:59:22 - [damaged] Ztella (STEAM_0:1:85419169) was damaged 5 by prop_physics
+
+2018-07-31 / 02:59:31 - [chat] Ztella (STEAM_0:1:85419169) : 프롭물리력을   얼마로   해뒀길레
+
+2018-07-31 / 02:59:33 - [chat] Ztella (STEAM_0:1:85419169) : 그냥죽네
+
+2018-07-31 / 03:04:48 - [chat] 마곡동골목대장 (STEAM_0:1:30873661) : ddos날림?
+
+2018-07-31 / 03:04:57 - [chat] Ztella (STEAM_0:1:85419169) : 인게임적으로
+
+2018-07-31 / 03:04:58 - [chat] Ztella (STEAM_0:1:85419169) : 터트리
