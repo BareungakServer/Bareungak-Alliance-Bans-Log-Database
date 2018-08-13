@@ -130,3 +130,10 @@
 | steamID64: https://steamcommunity.com/profiles/76561198837890027
 | customURL: 
 |  steamrep: https://steamrep.com/profiles/76561198837890027
+
+| steamname: 치킨
+|  steam3ID: [U:1:890188725]
+| steamID32: STEAM_0:1:445094362
+| steamID64: https://steamcommunity.com/profiles/76561198850454453
+| customURL: 
+|  steamrep: https://steamrep.com/profiles/76561198850454453
