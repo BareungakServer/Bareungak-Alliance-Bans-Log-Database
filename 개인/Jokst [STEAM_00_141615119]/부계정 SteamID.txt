@@ -1,4 +1,6 @@
-﻿| steamname: 구데마타
+﻿Database Date : 2019-01-03 AM 1:41
+
+| steamname: 구데마타
 | steam3ID: [U:1:849867562]
 | steamID32: STEAM_0:0:424933781
 | steamID64: http://steamcommunity.com/profiles/76561198810133290

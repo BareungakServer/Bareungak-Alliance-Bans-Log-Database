@@ -1,9 +1,11 @@
-﻿| steamname: 냥
-| steam3ID: [U:1:458113626]
+﻿Database Date : 2019-01-03 AM 1:41
+
+| steamname: Nightcore
+|  steam3ID: [U:1:458113626]
 | steamID32: STEAM_0:0:229056813
-| steamID64: http://steamcommunity.com/profiles/76561198418379354
-| customURL:
-| steamrep: http://steamrep.com/profiles/76561198418379354
+| steamID64: https://steamcommunity.com/profiles/76561198418379354
+| customURL: 
+|  steamrep: https://steamrep.com/profiles/76561198418379354
 
 | steamname: cpu
 | steam3ID: [U:1:461736352]
@@ -12,12 +14,12 @@
 | customURL:
 | steamrep: http://steamrep.com/profiles/76561198422002080
 
-| steamname: 구데타마
+| steamname: 달걀
 | steam3ID: [U:1:847254269]
 | steamID32: STEAM_0:1:423627134
-| steamID64: http://steamcommunity.com/profiles/76561198807519997
+| steamID64: https://steamcommunity.com/profiles/76561198807519997
 | customURL:
-| steamrep: http://steamrep.com/profiles/76561198807519997
+| steamrep: https://steamrep.com/profiles/76561198807519997
 
 | steamname: 카네키 켄
 |  steam3ID: [U:1:847449061]
@@ -26,12 +28,12 @@
 | customURL: 
 |  steamrep: http://steamrep.com/profiles/76561198807714789
 
-| steamname: 알보칠
-| steam3ID: [U:1:471350431]
+| steamname: 문재인
+|  steam3ID: [U:1:471350431]
 | steamID32: STEAM_0:1:235675215
-| steamID64: http://steamcommunity.com/profiles/76561198431616159
-| customURL:
-| steamrep: http://steamrep.com/profiles/76561198431616159
+| steamID64: https://steamcommunity.com/profiles/76561198431616159
+| customURL: 
+|  steamrep: https://steamrep.com/profiles/76561198431616159
 
 | steamname: SCP
 |  steam3ID: [U:1:847926291]
@@ -61,12 +63,12 @@
 | customURL:
 | steamrep: http://steamrep.com/profiles/76561198814709869
 
-| steamname: 남창로리콘
-| steam3ID: [U:1:857097224]
+| steamname: 고라니
+|  steam3ID: [U:1:857097224]
 | steamID32: STEAM_0:0:428548612
 | steamID64: https://steamcommunity.com/profiles/76561198817362952
-| customURL:
-| steamrep: https://steamrep.com/profiles/76561198817362952
+| customURL: 
+|  steamrep: https://steamrep.com/profiles/76561198817362952
 
 | steamname: bochan
 | steam3ID: [U:1:878308438]
@@ -82,12 +84,12 @@
 | customURL:
 | steamrep: https://steamrep.com/profiles/76561198289608761
 
-| steamname: 116
-|  steam3ID: [U:1:888265672]
+| steamname: Lost Ark
+| steam3ID: [U:1:888265672]
 | steamID32: STEAM_0:0:444132836
 | steamID64: https://steamcommunity.com/profiles/76561198848531400
-| customURL: 
-|  steamrep: https://steamrep.com/profiles/76561198848531400
+| customURL:
+| steamrep: https://steamrep.com/profiles/76561198848531400
 
 | steamname: Nyan
 |  steam3ID: [U:1:856934347]
@@ -96,14 +98,14 @@
 | customURL: 
 |  steamrep: https://steamrep.com/profiles/76561198817200075
 
-| steamname: 밍키
+| steamname: 도넛맨
 |  steam3ID: [U:1:876223610]
 | steamID32: STEAM_0:0:438111805
 | steamID64: https://steamcommunity.com/profiles/76561198836489338
 | customURL: 
 |  steamrep: https://steamrep.com/profiles/76561198836489338
 
-| steamname: Orange
+| steamname: 『　　』
 |  steam3ID: [U:1:873506086]
 | steamID32: STEAM_0:0:436753043
 | steamID64: https://steamcommunity.com/profiles/76561198833771814
@@ -117,30 +119,30 @@
 | customURL: 
 |  steamrep: https://steamrep.com/profiles/76561198817075422
 
-| steamname: 심해
+| steamname: 로스트아크
 | steam3ID: [U:1:877732788]
 | steamID32: STEAM_0:0:438866394
 | steamID64: https://steamcommunity.com/profiles/76561198837998516
 | customURL:
 | steamrep: https://steamrep.com/profiles/76561198837998516
 
-| steamname: Cola
-|  steam3ID: [U:1:877624299]
+| steamname: ㅇㅂㅇ
+| steam3ID: [U:1:877624299]
 | steamID32: STEAM_0:1:438812149
 | steamID64: https://steamcommunity.com/profiles/76561198837890027
-| customURL: 
-|  steamrep: https://steamrep.com/profiles/76561198837890027
+| customURL:
+| steamrep: https://steamrep.com/profiles/76561198837890027
 
-| steamname: 치킨
+| steamname: 브베잉융치킨
 |  steam3ID: [U:1:890188725]
 | steamID32: STEAM_0:1:445094362
 | steamID64: https://steamcommunity.com/profiles/76561198850454453
 | customURL: 
 |  steamrep: https://steamrep.com/profiles/76561198850454453
 
-| steamname: 봉크!!
-| steam3ID: [U:1:891150617]
+| steamname: Nyan
+|  steam3ID: [U:1:891150617]
 | steamID32: STEAM_0:1:445575308
 | steamID64: https://steamcommunity.com/profiles/76561198851416345
-| customURL:
-| steamrep: https://steamrep.com/profiles/76561198851416345
+| customURL: 
+|  steamrep: https://steamrep.com/profiles/76561198851416345
